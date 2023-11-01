@@ -1,0 +1,37 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^2.0.2",
+    "@nomicfoundation/hardhat-ethers": "^3.0.4",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.9",
+    "@nomicfoundation/hardhat-verify": "^1.1.1",
+    "@nomiclabs/hardhat-ethers": "npm:hardhat-deploy-ethers@^0.4.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "@typechain/ethers-v6": "^0.4.3",
+    "@typechain/hardhat": "^8.0.3",
+    "@types/mocha": "^10.0.3",
+    "@types/sinon-chai": "^3.2.10",
+    "chai": "^4.3.10",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^6.6.2",
+    "hardhat": "^2.18.2",
+    "hardhat-gas-reporter": "^1.0.9",
+    "solidity-coverage": "^0.8.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@hookform/error-message": "^2.0.1",
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@openzeppelin/contracts": "^5.0.0",
+    "dotenv": "^16.3.1"
+  }
+}
