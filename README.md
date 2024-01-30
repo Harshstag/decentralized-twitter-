@@ -24,7 +24,8 @@ Decentralized Twitter Dapp is an application where the users can create accounts
 Shows all Threads that are available to be showne.  
 This page will show Threads even if the user doesn't have the [Metamask](https://metamask.io/) extension or isn't connected to the dapp.
 
-<img src="img/Screenshot (168).png"  style="width:50%"/>
+<img src="server/img/Screenshot (286).png"  style="width:50%"/>
+<img src="server/img/Screenshot (287).png"  style="width:50%"/>
 
 ---
 
